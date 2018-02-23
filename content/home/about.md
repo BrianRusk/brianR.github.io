@@ -10,31 +10,22 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+    "Language Acquisition",
+    "Child Second Language Acquisition",
+    "Explicit and Implicit Language Learning",
+    "Quantitative Data Analysis"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
+  course = "Masters of Applied Linguistics"
+  institution = "University of New England, Australia"
   year = 2012
 
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Brian Rusk is a PhD candidate working in the Language Acquisition Lab of the University of Alberta with Johanne Paradis. He is researching child second language attainment comparing learners in community and classroom immersion. He is using psycholinguistic methods including visual world eyetracking.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Brian's research is focused on how learning context influences language acquisition. Specifically, his dissertation project examines features of English morphosyntax that are acquired implicitly in first language acquisition. The aim is to determine if these features are acquired in a similar fashion for early childhood second language learners in either a community or classroom immersion context.
