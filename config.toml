@@ -6,7 +6,7 @@
 baseurl = "https://brianvr.netlify.com/"
 
 # Title of your site
-title = "Academic"
+title = "Brian V. Rusk"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -50,7 +50,7 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Brian Rusk"
+  name = "Brian V. Rusk"
   role = "PhD Candidate, Linguistics"
 
   # Organizations/Affiliations.
