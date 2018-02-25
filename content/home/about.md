@@ -12,9 +12,9 @@ weight = 5
   interests = [
     "Language Acquisition",
     "Child Second Language Acquisition",
-    "Psycholinguistic Methods",
     "Morphosyntax",
     "Language Immersion",
+    "Psycholinguistic Methods",
     "Quantitative Data Analysis"
   ]
 
