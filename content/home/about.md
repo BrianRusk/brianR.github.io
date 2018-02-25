@@ -21,6 +21,11 @@ weight = 5
   course = "Masters of Applied Linguistics"
   institution = "University of New England, Australia"
   year = 2012
+  
+[[education.courses]]  
+  course = "Bachelor of Arts"
+  institution = "University College of the Fraser Valley"
+  year = 1998
 
 +++
 
