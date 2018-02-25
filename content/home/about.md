@@ -13,7 +13,7 @@ weight = 5
     "Language Acquisition",
     "Child Second Language Acquisition",
     "Morphosyntax",
-    "Language Immersion ",
+    "Language Immersion",
     "Psycholinguistic Methods",
     "Quantitative Data Analysis"
   ]
