@@ -5,7 +5,7 @@
     
     <url>
     
-      <loc>/talk/base/</loc>
+      <loc>https://brianvr.netlify.com/talk/acol/</loc>
       <lastmod>2017-01-01T00:00:00-07:00</lastmod>
     </url>
     
@@ -14,7 +14,7 @@
     
     <url>
     
-      <loc>/post/</loc>
+      <loc>https://brianvr.netlify.com/talk/disconnections/</loc>
       <lastmod>2017-01-01T00:00:00-07:00</lastmod>
     </url>
     
@@ -23,7 +23,25 @@
     
     <url>
     
-      <loc>/publication/complexsyntax/</loc>
+      <loc>https://brianvr.netlify.com/talk/base/</loc>
+      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://brianvr.netlify.com/post/</loc>
+      <lastmod>2017-01-01T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>https://brianvr.netlify.com/publication/complexsyntax/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -32,7 +50,7 @@
     
     <url>
     
-      <loc>/tags/academic/</loc>
+      <loc>https://brianvr.netlify.com/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -41,7 +59,7 @@
     
     <url>
     
-      <loc>/publication/</loc>
+      <loc>https://brianvr.netlify.com/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -50,7 +68,7 @@
     
     <url>
     
-      <loc>/talk/</loc>
+      <loc>https://brianvr.netlify.com/talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -59,7 +77,7 @@
     
     <url>
     
-      <loc>/post/getting-started/</loc>
+      <loc>https://brianvr.netlify.com/post/getting-started/</loc>
       <lastmod>2018-01-13T00:00:00-07:00</lastmod>
     </url>
     
@@ -68,7 +86,7 @@
     
     <url>
     
-      <loc>/post/2015-07-23-r-rmarkdown/</loc>
+      <loc>https://brianvr.netlify.com/post/2015-07-23-r-rmarkdown/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     </url>
     
@@ -77,7 +95,7 @@
     
     <url>
     
-      <loc>/publication_types/2/</loc>
+      <loc>https://brianvr.netlify.com/publication_types/2/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -87,7 +105,7 @@
     
     <url>
     
-      <loc>/</loc>
+      <loc>https://brianvr.netlify.com/</loc>
       <lastmod>2017-10-15T00:00:00-06:00</lastmod>
       <priority>0</priority>
     </url>
@@ -97,7 +115,7 @@
     
     <url>
     
-      <loc>/categories/</loc>
+      <loc>https://brianvr.netlify.com/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -106,7 +124,7 @@
     
     <url>
     
-      <loc>/tags/plot/</loc>
+      <loc>https://brianvr.netlify.com/tags/plot/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -116,7 +134,7 @@
     
     <url>
     
-      <loc>/publication_types/</loc>
+      <loc>https://brianvr.netlify.com/publication_types/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -126,7 +144,7 @@
     
     <url>
     
-      <loc>/categories/r/</loc>
+      <loc>https://brianvr.netlify.com/categories/r/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -136,7 +154,7 @@
     
     <url>
     
-      <loc>/tags/r-markdown/</loc>
+      <loc>https://brianvr.netlify.com/tags/r-markdown/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -146,7 +164,7 @@
     
     <url>
     
-      <loc>/tags/regression/</loc>
+      <loc>https://brianvr.netlify.com/tags/regression/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -156,7 +174,7 @@
     
     <url>
     
-      <loc>/tags/</loc>
+      <loc>https://brianvr.netlify.com/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
