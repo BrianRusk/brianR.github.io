@@ -33,6 +33,6 @@ weight = 5
 
 # Biography
 
-I am a SSHRC Doctoral Fellow and PhD candidate working in the Language Acquisition Lab of the University of Alberta with Johanne Paradis. I research child second language attainment comparing learners in community and classroom immersion using psycholinguistic methods including visual world eyetracking. 
+I am a SSHRC Doctoral Fellow and PhD candidate working in the Language Acquisition Lab of the University of Alberta with Johanne Paradis. I research child second language attainment comparing learners in community and classroom immersion using psycholinguistic methods including visual world eyetracking.
 
 My research is focused on how learning context influences language acquisition. Specifically, my dissertation project examines features of English morphosyntax that are acquired implicitly in first language acquisition. The aim is to determine if these features are acquired in a similar fashion for early childhood second language learners in either a community or classroom immersion context.
