@@ -8,17 +8,17 @@
 a,
 a:visited,
 h3.article-title a:hover {
-    color: rgb(76,175,80);
+    color: rgb(15,100,15);
 }
 
 a:hover {
-    color: rgb(0,230,118);
+    color: rgb(76,175,80);
 }
 
 .navbar-default .navbar-nav li a:hover,
 .btn-primary,
 .btn-primary.btn-outline {
-    color: rgb(76,175,80);
+    color: rgb(15,100,15);
 }
 
 /* Articles */
@@ -32,20 +32,20 @@ a:hover {
 }
 
 .article-metadata a:hover {
-    color: rgb(76,175,80);
+    color: rgb(15,100,15);
 }
 
 /* Standard buttons */
 
 .btn-primary,
 .btn-primary.btn-outline {
-    border-color: rgb(76,175,80);
+    border-color: rgb(15,100,15);
 }
 
 /* Hover buttons */
 
 .btn-primary.btn-outline:hover {
-    border-color: rgb(76,175,80);
+    border-color: rgb(15,100,15);
 }
 
 .btn-primary:hover,
@@ -54,7 +54,7 @@ a:hover {
 .btn-primary.active,
 .btn-primary:visited,
 .btn-primary.btn-outline:active {
-    background-color: rgb(76,175,80);
+    background-color: rgb(15,100,15);
 }
 
 /* Navbar buttons */
@@ -62,7 +62,7 @@ a:hover {
 .navbar-default .navbar-nav>.active>a,
 .navbar-default .navbar-nav>.active>a:focus,
 .navbar-default .navbar-nav>.active>a:hover {
-  color: rgb(76,175,80);
+  color: rgb(15,100,15);
   font-weight: 700;
   background-color: transparent !important; /* Override Bootstrap. */
 }
@@ -70,15 +70,15 @@ a:hover {
 /* Toolbar buttons */
 
 .btn-toolbar .btn.btn-primary {
-  background: rgb(0,230,118);
+  background: rgb(76,175,80);
 }
 
 .btn-toolbar .btn.btn-primary:hover,
 .btn-toolbar .btn.btn-primary:focus {
-  background-color: rgba(0,230,118,0.6);
+  background-color: rgba(76,175,80,0.6);
 }
 
 .btn-toolbar .btn.btn-primary:active,
 .btn-toolbar .btn.btn-primary.active {
-  background-color: rgba(0,230,118,1);
+  background-color: rgba(76,175,80,1);
 }
