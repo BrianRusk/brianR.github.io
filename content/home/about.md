@@ -33,6 +33,6 @@ weight = 5
 
 # Biography
 
-Brian Rusk is a PhD candidate working in the Language Acquisition Lab of the University of Alberta with Johanne Paradis. He is researching child second language attainment comparing learners in community and classroom immersion. He is using psycholinguistic methods including visual world eyetracking.
+I am a SSHRC Doctoral Fellow and PhD candidate working in the Language Acquisition Lab of the University of Alberta with Johanne Paradis. I research child second language attainment comparing learners in community and classroom immersion using psycholinguistic methods including visual world eyetracking.
 
-Brian's research is focused on how learning context influences language acquisition. Specifically, his dissertation project examines features of English morphosyntax that are acquired implicitly in first language acquisition. The aim is to determine if these features are acquired in a similar fashion for early childhood second language learners in either a community or classroom immersion context.
+My research is focused on how learning context influences language acquisition. Specifically, my dissertation project examines features of English morphosyntax that are acquired implicitly in first language acquisition. The aim is to determine if these features are acquired in a similar fashion for early childhood second language learners in either a community or classroom immersion context.
