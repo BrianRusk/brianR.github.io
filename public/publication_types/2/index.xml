@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 on Brian V. Rusk</title>
-    <link>https://brianvr.netlify.com/publication_types/2/</link>
+    <link>/publication_types/2/</link>
     <description>Recent content in 2 on Brian V. Rusk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2018 Brian Rusk</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://brianvr.netlify.com/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Children&#39;s second language acquisition of English complex syntax: The role of age, input and cognitive factors</title>
-      <link>https://brianvr.netlify.com/publication/complexsyntax/</link>
+      <link>/publication/complexsyntax/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://brianvr.netlify.com/publication/complexsyntax/</guid>
+      <guid>/publication/complexsyntax/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     
