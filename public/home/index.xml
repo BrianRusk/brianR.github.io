@@ -29,7 +29,7 @@
       
       <guid>https://brianvr.netlify.com/home/about/</guid>
       <description>Biography I am an SSHRC Doctoral Fellow and PhD candidate working in the Language Acquisition Lab of the University of Alberta. I research child second language acquisition, and I&amp;rsquo;m interested in both community as well as classroom language immersion settings.
-My dissertation project examines online comprehension of morphological information by middle-school-aged youth who began learning English in preschool. The main experiment employs visual-world eye-tracking.</description>
+My dissertation project examines online comprehension of morphological information by middle-school-aged youth who began learning English in preschool. The main experiment employs visual-world eye-tracking, and compares second language comprehension as both a dynamic and static processes.</description>
     </item>
     
     <item>
@@ -93,15 +93,6 @@ My dissertation project examines online comprehension of morphological informati
       
       <guid>https://brianvr.netlify.com/home/contact/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://brianvr.netlify.com/home/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://brianvr.netlify.com/home/about/</guid>
-      <description>code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs) { hljs.configure({languages: []}); hljs.initHighlightingOnLoad(); if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); } }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
     </item>
     
   </channel>
