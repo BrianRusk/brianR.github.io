@@ -36,15 +36,15 @@ selected = true
 # projects = [""]
 
 # Links (optional).
-url_pdf = ""
-url_preprint = ""
+url_pdf = "https://www.cambridge.org/core/journals/annual-review-of-applied-linguistics/article/childrens-second-language-acquisition-of-english-complex-syntax-the-role-of-age-input-and-cognitive-factors/58115DF75780DBD293B29AF74FBD1F16"
+url_preprint = "pdf/Paradis_etal_ARAL_manuscript_share.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = "https://www.cambridge.org/core/journals/annual-review-of-applied-linguistics/article/childrens-second-language-acquisition-of-english-complex-syntax-the-role-of-age-input-and-cognitive-factors/58115DF75780DBD293B29AF74FBD1F16"
+url_source = ""
 
 # Does the content use math formatting?
 math = true
