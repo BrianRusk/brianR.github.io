@@ -20,7 +20,7 @@ selected = false
 
 # Links (optional).
 url_pdf = ""
-url_slides = "files/slides/MLCSdisconnections.pdf"
+url_slides = "slides/MLCSdisconnections.pdf"
 url_video = ""
 url_code = ""
 
