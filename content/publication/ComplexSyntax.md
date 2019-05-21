@@ -1,6 +1,6 @@
 +++
 title = "Children's second language acquisition of English complex syntax: The role of age, input and cognitive factors"
-date = "2017-01-01"
+date = "2017-09-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Johanne Paradis", "Brian Rusk", "Tamara Sorenson Duncan", "Krithika Govindarajan"]
@@ -21,7 +21,7 @@ publication = "In *Annual Review of Applied Linguistics*, ARAL."
 publication_short = "In *ARAL*"
 
 # Abstract and optional shortened version.
-abstract = "The goal of this study was to determine (a) the similarities and dissimilarities between child L2 and L1 acquisition of complex sentences and (b) the individual difference factors predicting L2 children’s acquisition of complex sentences. We analyzed language samples from 187 English L2 children with diverse L1s (Age mean = 5;10 [years;months]; English exposure mean = 17 months). Children used various types of complex sentences at all levels of L2 exposure, including sentences with relative clauses, which are late-acquired by L1 learners. Mixed logistic regression modeling revealed that longer exposure to English in school, richer English environments outside school, larger L2 vocabulary, superior verbal memory and visual analytic reasoning contributed to greater use of complex sentences. L1 typology did not impact complex sentence use in the L2. Overall, L2 children used more complex sentences within a few months of English L2 exposure than what is reported for L1 children aged 2;0–4;0, revealing an advantage for an older age of acquisition. The predictive role of input and cognitive factors, as well as vocabulary, in children’s use of complex sentences is more consistent with constructivist than generativist accounts of L2 syntactic acquisition."
+abstract = "The goal of this study was to determine a) the similarities and dissimilarities between child L2 and L1 acquisition of complex sentences and b) the individual difference factors predicting L2 children’s acquisition of complex sentences. We analyzed language samples from 187 English L2 children with diverse L1s (Age mean = 5;10 [years;months]; English exposure mean = 17 months). Children used various types of complex sentences at all levels of L2 exposure, including sentences with relative clauses, which are late-acquired by L1 learners. Mixed logistic regression modeling revealed that longer exposure to English in school, richer English environments outside school, larger L2 vocabulary, superior verbal memory and visual analytic reasoning contributed to greater use of complex sentences. L1 typology did not impact complex sentence use in the L2. Overall, L2 children used more complex sentences within a few months of English L2 exposure than what is reported for L1 children aged 2;0–4;0, revealing an advantage for an older age of acquisition. The predictive role of input and cognitive factors, as well as vocabulary, in children’s use of complex sentences is more consistent with constructivist than generativist accounts of L2 syntactic acquisition."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -44,7 +44,7 @@ url_project = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "https://www.cambridge.org/core/journals/annual-review-of-applied-linguistics/article/childrens-second-language-acquisition-of-english-complex-syntax-the-role-of-age-input-and-cognitive-factors/58115DF75780DBD293B29AF74FBD1F16"
 
 # Does the content use math formatting?
 math = true
