@@ -22,7 +22,7 @@ selected = false
 
 # Links (optional).
 url_pdf = ""
-url_slides = "/public/files/slides/BrianRuskACOL2017.pdf"
+url_slides = "/files/slides/BrianRuskACOL2017.pdf"
 url_video = ""
 url_code = ""
 
