@@ -34,4 +34,4 @@ weight = 5
 
 I am an SSHRC Doctoral Fellow and PhD candidate working in the Language Acquisition Lab of the University of Alberta. I research child second language acquisition, and I'm interested in both community as well as classroom language immersion settings.
 
-My dissertation project examines online comprehension of morphological information by middle-school-aged youth who began learning English in preschool. The main experiment employs visual-world eye-tracking, and compares second language comprehension as both a dynamic and static processes.
+My dissertation project examines online comprehension of morphological information by middle-school-aged youth who began learning English in preschool. The main experiment employs visual-world eye-tracking, and compares second language comprehension as both a dynamic and static process.
