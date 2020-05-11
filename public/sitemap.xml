@@ -5,7 +5,16 @@
     
     <url>
     
-      <loc>http://brianvrusk.rbind.io/publication/complexsyntax/</loc>
+      <loc>/publication/vwp2020/</loc>
+      <lastmod>2020-05-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/complexsyntax/</loc>
       <lastmod>2017-09-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -14,7 +23,7 @@
     
     <url>
     
-      <loc>http://brianvrusk.rbind.io/talk/acol/</loc>
+      <loc>/talk/acol/</loc>
       <lastmod>2017-01-01T00:00:00-07:00</lastmod>
     </url>
     
@@ -23,7 +32,7 @@
     
     <url>
     
-      <loc>http://brianvrusk.rbind.io/talk/disconnections/</loc>
+      <loc>/talk/disconnections/</loc>
       <lastmod>2017-01-01T00:00:00-07:00</lastmod>
     </url>
     
@@ -32,7 +41,7 @@
     
     <url>
     
-      <loc>http://brianvrusk.rbind.io/talk/base/</loc>
+      <loc>/talk/base/</loc>
       <lastmod>2017-01-01T00:00:00-07:00</lastmod>
     </url>
     
@@ -41,7 +50,7 @@
     
     <url>
     
-      <loc>http://brianvrusk.rbind.io/talk/cla2019/</loc>
+      <loc>/talk/cla2019/</loc>
       <lastmod>2017-01-01T00:00:00-07:00</lastmod>
     </url>
     
@@ -50,7 +59,7 @@
     
     <url>
     
-      <loc>http://brianvrusk.rbind.io/talk/isb2019/</loc>
+      <loc>/talk/isb2019/</loc>
       <lastmod>2017-01-01T00:00:00-07:00</lastmod>
     </url>
     
@@ -59,7 +68,7 @@
     
     <url>
     
-      <loc>http://brianvrusk.rbind.io/post/</loc>
+      <loc>/post/</loc>
       <lastmod>2017-01-01T00:00:00-07:00</lastmod>
     </url>
     
@@ -68,7 +77,7 @@
     
     <url>
     
-      <loc>http://brianvrusk.rbind.io/tags/academic/</loc>
+      <loc>/tags/academic/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -77,7 +86,7 @@
     
     <url>
     
-      <loc>http://brianvrusk.rbind.io/publication/</loc>
+      <loc>/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -86,7 +95,7 @@
     
     <url>
     
-      <loc>http://brianvrusk.rbind.io/talk/</loc>
+      <loc>/talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -95,7 +104,7 @@
     
     <url>
     
-      <loc>http://brianvrusk.rbind.io/post/getting-started/</loc>
+      <loc>/post/getting-started/</loc>
       <lastmod>2018-01-13T00:00:00-07:00</lastmod>
     </url>
     
@@ -104,7 +113,7 @@
     
     <url>
     
-      <loc>http://brianvrusk.rbind.io/post/2015-07-23-r-rmarkdown/</loc>
+      <loc>/post/2015-07-23-r-rmarkdown/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     </url>
     
@@ -113,8 +122,8 @@
     
     <url>
     
-      <loc>http://brianvrusk.rbind.io/publication_types/2/</loc>
-      <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+      <loc>/publication_types/2/</loc>
+      <lastmod>2020-05-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -123,7 +132,7 @@
     
     <url>
     
-      <loc>http://brianvrusk.rbind.io/</loc>
+      <loc>/</loc>
       <lastmod>2017-10-15T00:00:00-06:00</lastmod>
       <priority>0</priority>
     </url>
@@ -133,7 +142,7 @@
     
     <url>
     
-      <loc>http://brianvrusk.rbind.io/categories/</loc>
+      <loc>/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -142,7 +151,7 @@
     
     <url>
     
-      <loc>http://brianvrusk.rbind.io/tags/plot/</loc>
+      <loc>/tags/plot/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -152,8 +161,8 @@
     
     <url>
     
-      <loc>http://brianvrusk.rbind.io/publication_types/</loc>
-      <lastmod>2017-09-01T00:00:00+00:00</lastmod>
+      <loc>/publication_types/</loc>
+      <lastmod>2020-05-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -162,7 +171,7 @@
     
     <url>
     
-      <loc>http://brianvrusk.rbind.io/categories/r/</loc>
+      <loc>/categories/r/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -172,7 +181,7 @@
     
     <url>
     
-      <loc>http://brianvrusk.rbind.io/tags/r-markdown/</loc>
+      <loc>/tags/r-markdown/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -182,7 +191,7 @@
     
     <url>
     
-      <loc>http://brianvrusk.rbind.io/tags/regression/</loc>
+      <loc>/tags/regression/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
     </url>
@@ -192,7 +201,7 @@
     
     <url>
     
-      <loc>http://brianvrusk.rbind.io/tags/</loc>
+      <loc>/tags/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>

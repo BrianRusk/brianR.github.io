@@ -2,58 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on Brian V. Rusk</title>
-    <link>http://brianvrusk.rbind.io/talk/</link>
+    <link>/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on Brian V. Rusk</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2018 Brian Rusk</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://brianvrusk.rbind.io/talk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Differences between ESL, EFL, and Monolinguals: A Developmental Retrospective Grammaticality Judgment Study</title>
-      <link>http://brianvrusk.rbind.io/talk/acol/</link>
+      <link>/talk/acol/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
       
-      <guid>http://brianvrusk.rbind.io/talk/acol/</guid>
+      <guid>/talk/acol/</guid>
       <description></description>
     </item>
     
     <item>
       <title>From a Classifier Language to English: Do EFL Classrooms Benefit Acquisition of English Number Marking?</title>
-      <link>http://brianvrusk.rbind.io/talk/disconnections/</link>
+      <link>/talk/disconnections/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
       
-      <guid>http://brianvrusk.rbind.io/talk/disconnections/</guid>
+      <guid>/talk/disconnections/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How Are They Now? Early Second Language Learners&#39; Grammaticality Judgments in Adulthood</title>
-      <link>http://brianvrusk.rbind.io/talk/base/</link>
+      <link>/talk/base/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
       
-      <guid>http://brianvrusk.rbind.io/talk/base/</guid>
+      <guid>/talk/base/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Middle-School Language Immersion Learners’ Comprehension of Plural-Singular Marking: Acquisition across a Typologically Distinct Language Pairing [Poster]</title>
-      <link>http://brianvrusk.rbind.io/talk/cla2019/</link>
+      <link>/talk/cla2019/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
       
-      <guid>http://brianvrusk.rbind.io/talk/cla2019/</guid>
+      <guid>/talk/cla2019/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Morphosyntactic abilities of early L2 learners in adolescence and young adulthood: Convergence with monolinguals and role of vocabulary size</title>
-      <link>http://brianvrusk.rbind.io/talk/isb2019/</link>
+      <title>Morphosyntactic Abilities of Early L2 Learners in Adolescence and Young Adulthood: Convergence with Monolinguals and Role of Vocabulary Size</title>
+      <link>/talk/isb2019/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
       
-      <guid>http://brianvrusk.rbind.io/talk/isb2019/</guid>
+      <guid>/talk/isb2019/</guid>
       <description></description>
     </item>
     
