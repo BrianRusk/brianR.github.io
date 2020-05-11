@@ -17,6 +17,8 @@ weight = 60
 
 Courses that I have taught at the University of Alberta
 
-- Ling319/CSD211 - Child Language Acquisition - Spring 2019
-- Ling204 English Syntax - Winter 2019
-- Ling319/CSD211 - Child Language Acquisition - Fall 2017
+- Linguistics 101 - Introduction to Linguistics - Winter 2020
+- Linguistics 319/Communication Sciences \& Disorders 211 - Child Language Acquisition - Fall 2019
+- Linguistics 319/CSD 211 - Child Language Acquisition - Spring 2019
+- Linguistics 204 - English Syntax - Winter 2019
+- Linguistics 319/CSD 211 - Child Language Acquisition - Fall 2017
