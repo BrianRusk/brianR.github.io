@@ -17,6 +17,7 @@ weight = 60
 
 Courses that I have taught at the University of Alberta
 
+- Psychology 405 - Psychology of Bilingualism - Fall 2020
 - Linguistics 101 - Introduction to Linguistics - Winter 2020
 - Linguistics 319/Communication Sciences \& Disorders 211 - Child Language Acquisition - Fall 2019
 - Linguistics 319/CSD 211 - Child Language Acquisition - Spring 2019
