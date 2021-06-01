@@ -3,7 +3,8 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "https://brianvr.netlify.com/"
+# baseurl = "https://brianvr.netlify.com/" # This was fucking up my website links
+baseurl = "http://brianvrusk.rbind.io/"
 
 # Title of your site
 title = "Brian V. Rusk"
@@ -176,7 +177,7 @@ defaultContentLanguageInSubdir = false
   # Configuration of talk pages.
   [params.talks]
     # Show talk time?
-    time = true
+    time = false
 
   # Configuration of publication pages.
   [params.publications]

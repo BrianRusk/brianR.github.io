@@ -7,13 +7,40 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2018 Brian Rusk</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0800</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Comprehension of English plural-singular marking by Mandarin-L1, early L2-immersion learners</title>
+      <link>/publication/vwp2020/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/vwp2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Oral language profiles of English second Language learners in adolescence: Cognitive and input factors influence how they compare to their monolingual peers</title>
+      <link>/publication/orallangsotocoro/</link>
+      <pubDate>Sun, 19 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/orallangsotocoro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Children&#39;s second language acquisition of English complex syntax: The role of age, input and cognitive factors</title>
+      <link>/publication/complexsyntax/</link>
+      <pubDate>Fri, 01 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/complexsyntax/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Differences between ESL, EFL, and Monolinguals: A Developmental Retrospective Grammaticality Judgment Study</title>
       <link>/talk/acol/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
       
       <guid>/talk/acol/</guid>
       <description></description>
@@ -22,7 +49,7 @@
     <item>
       <title>From a Classifier Language to English: Do EFL Classrooms Benefit Acquisition of English Number Marking?</title>
       <link>/talk/disconnections/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
       
       <guid>/talk/disconnections/</guid>
       <description></description>
@@ -31,26 +58,34 @@
     <item>
       <title>How Are They Now? Early Second Language Learners&#39; Grammaticality Judgments in Adulthood</title>
       <link>/talk/base/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 -0700</pubDate>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
       
       <guid>/talk/base/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Children&#39;s second language acquisition of English complex syntax: The role of age, input and cognitive factors</title>
-      <link>/publication/complexsyntax/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <title>Middle-School Language Immersion Learners’ Comprehension of Plural-Singular Marking: Acquisition across a Typologically Distinct Language Pairing [Poster]</title>
+      <link>/talk/cla2019/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
       
-      <guid>/publication/complexsyntax/</guid>
-      <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
+      <guid>/talk/cla2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Morphosyntactic Abilities of Early L2 Learners in Adolescence and Young Adulthood: Convergence with Monolinguals and Role of Vocabulary Size</title>
+      <link>/talk/isb2019/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0800</pubDate>
+      
+      <guid>/talk/isb2019/</guid>
+      <description></description>
     </item>
     
     <item>
       <title>Academic: the website designer for Hugo</title>
       <link>/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
       <guid>/post/getting-started/</guid>
       <description>
@@ -241,10 +276,7 @@ git submodule update --init --recursive
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
       <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>
-
-
-&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
+      <description>&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
 &lt;h1&gt;R Markdown&lt;/h1&gt;
 &lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;

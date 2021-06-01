@@ -14,7 +14,7 @@ weight = 5
     "Child Second Language Acquisition",
     "Morphosyntax",
     "Language Immersion",
-    "Quantitative Data Analysis"
+    "Data Analysis with `R`"
   ]
 
 # List your qualifications (such as academic degrees).
@@ -34,4 +34,4 @@ weight = 5
 
 I am an SSHRC Doctoral Fellow and PhD candidate working in the Language Acquisition Lab of the University of Alberta. I research child second language acquisition, and I'm interested in both community as well as classroom language immersion settings.
 
-My dissertation project examines online comprehension of morphological information by middle-school-aged youth who began learning English in preschool. The main experiment employs visual-world eye-tracking.  
+To understand second language acquisition of a highly frequent morphological feature of English, my dissertation project examines online comprehension of plural-singular marking by middle-school-aged youth who began learning English in preschool. The main experiment combines visual-world eye-tracking with a picture-decision task.

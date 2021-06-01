@@ -33,8 +33,8 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+image = "headers/electric_cubes_300_1280.jpg"
+# caption = "My caption :smile:"
 
 +++
 

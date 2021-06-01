@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Copyright &amp;copy; 2018 Brian Rusk</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 -0600</lastBuildDate>
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0800</lastBuildDate>
     
 	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>Academic</title>
       <link>/home/hero/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 -0600</pubDate>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 +0800</pubDate>
       
       <guid>/home/hero/</guid>
       <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release  
@@ -29,22 +29,22 @@
       
       <guid>/home/about/</guid>
       <description>Biography I am an SSHRC Doctoral Fellow and PhD candidate working in the Language Acquisition Lab of the University of Alberta. I research child second language acquisition, and I&amp;rsquo;m interested in both community as well as classroom language immersion settings.
-My dissertation project examines online comprehension of morphological information by middle-school-aged youth who began learning English in preschool. The main experiment employs visual-world eye-tracking.</description>
+To understand second language acquisition of a highly frequent morphological feature of English, my dissertation project examines online comprehension of plural-singular marking by middle-school-aged youth who began learning English in preschool.</description>
     </item>
     
     <item>
       <title>Selected Publications</title>
       <link>/home/publications_selected/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
       <guid>/home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Publication</title>
+      <title>Publications</title>
       <link>/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
       
       <guid>/home/publications/</guid>
       <description></description>
@@ -80,17 +80,17 @@ My dissertation project examines online comprehension of morphological informati
     <item>
       <title>Courses Taught</title>
       <link>/home/teaching/</link>
-      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/home/teaching/</guid>
-      <description>Courses I have taught at the University of Alberta:
- Ling319/CSD211 Child Language Acquisition - Spring 2019 Ling204 English Syntax - Winter 2019 Ling319/CSD211 Child Language Acquisition - Fall 2017  </description>
+      <description>Courses that I have taught at the University of Alberta
+ Psychology 405 - Psychology of Bilingualism - Fall 2020 Linguistics 101 - Introduction to Linguistics - Winter 2020 Linguistics 319/Communication Sciences &amp;amp; Disorders 211 - Child Language Acquisition - Fall 2019 Linguistics 319/CSD 211 - Child Language Acquisition - Spring 2019 Linguistics 204 - English Syntax - Winter 2019 Linguistics 319/CSD 211 - Child Language Acquisition - Fall 2017  </description>
     </item>
     
     <item>
       <title>Tags</title>
       <link>/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 -0600</pubDate>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 +0800</pubDate>
       
       <guid>/home/tags/</guid>
       <description></description>
@@ -107,11 +107,11 @@ My dissertation project examines online comprehension of morphological informati
     
     <item>
       <title></title>
-      <link>/home/about/</link>
+      <link>/home/teaching/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/home/about/</guid>
-      <description>code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs) { hljs.configure({languages: []}); hljs.initHighlightingOnLoad(); if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); } }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
+      <guid>/home/teaching/</guid>
+      <description>teaching.utf8        code{white-space: pre-wrap;} span.smallcaps{font-variant: small-caps;} span.underline{text-decoration: underline;} div.column{display: inline-block; vertical-align: top; width: 50%;} div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;} ul.task-list{list-style: none;}  code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs) { hljs.configure({languages: []}); hljs.initHighlightingOnLoad(); if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); } }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
     </item>
     
   </channel>
