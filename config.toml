@@ -11,7 +11,7 @@ title = "Brian V. Rusk"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "Copyright &copy; 2018 Brian Rusk"
+copyright = "Copyright &copy; 2023 Brian Rusk"
 
 theme = "hugo-academic"
 enableEmoji = true
@@ -52,16 +52,16 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Brian V. Rusk"
-  role = "PhD Candidate, Linguistics"
+  role = "Research Assistant Professor, Faculty of Education"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Alberta", url = "" } ]
+  organizations = [ { name = "University of Macau", url = "https://fed.um.edu.mo/brusk" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "ValleybyAbdo2.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "brusk@ualberta.ca"
-  address = "3-27 Assiniboia Hall, University of Alberta"
+  email = "brusk@um.edu.mo"
+  address = "Room 2042, Faculty of Education, University of Macau, E33, Av. da Universidade, Taipa, Macau, China"
   office_hours = "email for appointment"
   twitter = "https://twitter.com/BrianViRu"
   
@@ -95,8 +95,8 @@ defaultContentLanguageInSubdir = false
   #   3: OpenStreetMap (Mapbox)
   map = 2
   # map_api_key = "AIzaSyANptAVN8KzhwOjM-xXt6ZOtlZADbmiX4k"
-  latitude = "53.527487"
-  longitude = "-113.526659"
+  latitude = "22.12569"
+  longitude = "113.54338"
   zoom = 15
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
@@ -218,7 +218,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:brusk@ualberta.ca"
+    link = "mailto:brusk@um.edu.mo"
 
   [[params.social]]
     icon = "twitter"
@@ -269,10 +269,10 @@ defaultContentLanguageInSubdir = false
 #  url = "#projects"
 #  weight = 4
 
-# [[menu.main]]
-#  name = "Teaching"
-#  url = "#teaching"
-#  weight = 5
+[[menu.main]]
+name = "Teaching"
+url = "#teaching"
+weight = 5
 
 [[menu.main]]
   name = "Contact"

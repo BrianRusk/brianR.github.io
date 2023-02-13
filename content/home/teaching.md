@@ -7,15 +7,13 @@ active = true
 date = "2016-04-20T00:00:00"
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
+# I'll add a comment
 title = "Courses Taught"
-subtitle = ""
+subtitle = "Courses taught at the _[University of Alberta](https://www.ualberta.ca/linguistics/index.html)_"
 
 # Order that this section will appear in.
 weight = 60
-
 +++
-
-Courses that I have taught at the University of Alberta
 
 - Psychology 405 - Psychology of Bilingualism - Fall 2020
 - Linguistics 101 - Introduction to Linguistics - Winter 2020
